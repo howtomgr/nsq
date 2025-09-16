@@ -1,0 +1,61 @@
+{
+  "category": "message-queues",
+  "created_date": "2025-09-15T22:48:58.452077",
+  "default_ports": [
+    80,
+    443,
+    4151
+  ],
+  "dependencies": [],
+  "description": "nsq is a free and open-source message platform. NSQ provides distributed messaging platform designed for scale",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/message-queues/nsq",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/message-queues/nsq",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.452102",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "nsq",
+  "repository_url": "https://github.com/howtomgr/nsq",
+  "spec_version": "2.0",
+  "subcategory": "message-queues",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "message-queues",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "nsq Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/message-queues/nsq"
+}
